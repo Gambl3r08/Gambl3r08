@@ -1,8 +1,8 @@
 # Hi, i'm Roberto Lozada
 
-####Backend dev
+<h1>Backend dev</h1>
 
-####[Portfolio](https://gambl3r08.github.io/)
+[Portfolio](https://gambl3r08.github.io/)
 
 ___
 
