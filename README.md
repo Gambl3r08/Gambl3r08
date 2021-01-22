@@ -43,7 +43,7 @@ src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/as
 
 <br><br><br>
 ~~~go 
-fmt.println("keep coding")
+fmt.Println("keep coding")
 ~~~
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gambl3r08&show_icons=true)
