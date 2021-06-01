@@ -8,8 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/gambl3r08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gambl3r08" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/roberto-lozada-ariza-37317a180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roberto-lozada-ariza-37317a180/" height="30" width="40" /></a>
-<a href="https://instagram.com/robertolozadaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="robertolozadaa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
