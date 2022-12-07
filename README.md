@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roberto Lozada</h1>
 <h3 align="center">Backend dev</h3>
 
-- 🌱 I’m currently learning **Python [FastAPI, Django, DRF], Golang[Fiber], Node[Nestjs], C# [NETCore], Java [Springboot], Angular and ReactNative**
+- 🌱 I’m currently learning **Python [FastAPI, Django, DRF, AWS Lambda], C# [NETCore], Java [Springboot] and Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
