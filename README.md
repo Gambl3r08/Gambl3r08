@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roberto Lozada</h1>
 <h3 align="center">Backend dev</h3>
 
-- 🌱 I'm currently working with **Python [FastAPI, Django, DRF, AWS Lambda], Java [Spring] and Angular**
+- 🌱 I'm currently working with **Python [FastAPI, Django, DRF, AWS Lambda, Serverless], .NET 8**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
