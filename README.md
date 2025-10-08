@@ -28,12 +28,14 @@ Experienced in building scalable APIs and platforms with clean architectures and
 <h3>Tech Stack</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,dotnet,aws,docker,githubactions&perline=7" alt="Tech stack icons">
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,dotnet,aws,docker,githubactions,rust,mysql&perline=7" alt="Tech stack icons">
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=white" alt="Serverless badge">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL badge">
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL badge">
+<img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust badge">
 <img src="https://img.shields.io/badge/REST-005571?logo=swagger&logoColor=white" alt="REST APIs badge">
 </p>
 
