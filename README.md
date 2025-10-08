@@ -54,9 +54,5 @@ Experienced in building scalable APIs and platforms with clean architectures and
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Gambl3r08&hide_border=false" alt="GitHub Streak">
-</p>
-
-<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Gambl3r08&theme=flat&no-bg=true&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Profile Trophies">
 </p>
