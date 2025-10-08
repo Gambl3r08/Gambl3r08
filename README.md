@@ -11,5 +11,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gambl3r08&show_icons=true&locale=en" alt="gambl3r08" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gambl3r08&" alt="gambl3r08" /></p>
+<a href="https://github.com/Gambl3r08">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gambl3r08/Gambl3r08/main/dark_mode.svg">
+    <img alt="Gambl3r08 GitHub Profile README" src="https://raw.githubusercontent.com/Gambl3r08/Gambl3r08/main/light_mode.svg">
+  </picture>
+</a>
+
 
