@@ -25,32 +25,25 @@
 <br/>
 
 <div align="center">
-<table><tr><td align="center">
-<div style="background-color:#0d1117;border-radius:8px;overflow:hidden;border:1px solid #30363d;width:max-content;min-width:560px;max-width:640px;">
-<div style="display:flex;align-items:center;padding:8px 14px;background-color:#161b22;border-bottom:1px solid #21262d;">
-  <span style="width:11px;height:11px;border-radius:50%;background-color:#ff5f56;display:inline-block;"></span>
-  <span style="width:11px;height:11px;border-radius:50%;background-color:#ffbd2e;display:inline-block;margin-left:7px;"></span>
-  <span style="width:11px;height:11px;border-radius:50%;background-color:#27c93f;display:inline-block;margin-left:7px;"></span>
-  <span style="color:#8b949e;font-size:12px;font-family:ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;margin-left:14px;display:inline-block;">alacritty  —  ~/gambl3r08</span>
-</div>
-<pre style="margin:0;padding:14px 18px;background-color:#0d1117;color:#c9d1d9;font-size:13px;font-family:ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;line-height:1.65;text-align:left;white-space:pre;">
-<code><span style="color:#58a6ff;">❯ </span><span style="color:#c9d1d9;">whoami</span>
+<pre style="background:#0d1117;color:#c9d1d9;padding:14px 18px;border:1px solid #30363d;border-radius:8px;text-align:left;display:inline-block;font-size:13px;line-height:1.65;">
+<b style="color:#8b949e;">╭─ alacritty  ·  ~/gambl3r08 ──────────────────────────────╼</b>
+
+<span style="color:#58a6ff;">❯</span> <span style="color:#c9d1d9;">whoami</span>
 <span style="color:#7ee787;">Roberto Lozada</span> — Backend Developer
 
-<span style="color:#58a6ff;">❯ </span><span style="color:#c9d1d9;">cat about.md</span>
-<span style="color:#8b949e;"># focus</span>
-Fast, secure, and maintainable backends. CI/CD. Serverless on AWS.
+<span style="color:#58a6ff;">❯</span> <span style="color:#c9d1d9;">cat about.md</span>
+<span style="color:#545d68;"># focus</span>
+Fast, secure, maintainable backends. CI/CD. Serverless on AWS.
 
-<span style="color:#8b949e;"># stack</span>
-Python  ·  FastAPI  ·  Django  ·  .NET  ·  AWS Lambda  ·  Docker
+<span style="color:#545d68;"># stack</span>
+Python · FastAPI · Django · .NET · AWS Lambda · Docker
 
-<span style="color:#58a6ff;">❯ </span><span style="color:#c9d1d9;">ls ~/stack/</span>
+<span style="color:#58a6ff;">❯</span> <span style="color:#c9d1d9;">ls ~/stack/</span>
 <span style="color:#a5d6ff;">fastapi/    django/    dotnet/    aws/       docker/</span>
 <span style="color:#a5d6ff;">serverless/ postgres/  mysql/     rust/      github-actions/</span>
 
-<span style="color:#58a6ff;">❯ </span><span style="color:#484f58;">█</span></code></pre>
-</div>
-</td></tr></table>
+<span style="color:#58a6ff;">❯</span> <span style="color:#545d68;">█</span>
+</pre>
 </div>
 
 <br/>
@@ -76,25 +69,22 @@ Python  ·  FastAPI  ·  Django  ·  .NET  ·  AWS Lambda  ·  Docker
 <br/>
 
 <div align="center">
-<pre style="display:inline-block;text-align:left;background-color:#0d1117;padding:8px 16px;border-radius:6px;border:1px solid #30363d;color:#8b949e;font-size:13px;font-family:ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;line-height:1.6;">
-<span style="color:#58a6ff;">~/gambl3r08/main</span> <span style="color:#c9d1d9;">→</span> <span style="color:#e3b341;">cat</span> <span style="color:#a5d6ff;">highlights/metrics.svg</span>
+<pre style="background:#0d1117;color:#c9d1d9;padding:8px 16px;border:1px solid #30363d;border-radius:6px;text-align:left;display:inline-block;font-size:13px;line-height:1.6;">
+<span style="color:#545d68;"># automatically generated every 24h — lowlighter/metrics</span>
 </pre>
 </div>
 
 <br/>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gambl3r08/Gambl3r08/main/assets/metrics.svg?sanitize=true">
-    <img alt="Metrics" src="https://raw.githubusercontent.com/Gambl3r08/Gambl3r08/main/assets/metrics.svg?sanitize=true">
-  </picture>
+  <img alt="GitHub Metrics" src="https://raw.githubusercontent.com/Gambl3r08/Gambl3r08/main/assets/metrics.svg">
 </p>
 
 <br/>
 
 <div align="center">
-<pre style="display:inline-block;text-align:left;background-color:#0d1117;padding:8px 16px;border-radius:6px;border:1px solid #30363d;color:#8b949e;font-size:13px;font-family:ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;line-height:1.6;">
-<span style="color:#58a6ff;">~/gambl3r08/main</span> <span style="color:#c9d1d9;">→</span> <span style="color:#e3b341;">cat</span> <span style="color:#a5d6ff;">highlights/snake.svg</span>
+<pre style="background:#0d1117;color:#c9d1d9;padding:8px 16px;border:1px solid #30363d;border-radius:6px;text-align:left;display:inline-block;font-size:13px;line-height:1.6;">
+<span style="color:#545d68;"># automatically generated every 24h — Platane/snk</span>
 </pre>
 </div>
 
@@ -102,8 +92,8 @@ Python  ·  FastAPI  ·  Django  ·  .NET  ·  AWS Lambda  ·  Docker
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gambl3r08/Gambl3r08/main/assets/snake-dark.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Gambl3r08/Gambl3r08/main/assets/snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gambl3r08/Gambl3r08/output/snake-dark.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Gambl3r08/Gambl3r08/output/snake.svg" width="100%">
   </picture>
 </p>
 
