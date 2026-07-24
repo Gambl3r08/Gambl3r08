@@ -18,7 +18,7 @@
 <br/>
 
 <p align="center">
-  <img src="assets/terminal.svg" width="700" alt="Roberto Lozada — Backend Developer"/>
+  <img src="assets/terminal.svg" width="700" alt="Roberto Lozada — Software Developer"/>
 </p>
 
 <br/>
