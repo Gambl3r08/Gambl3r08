@@ -24,22 +24,36 @@
 
 <br/>
 
-```text
-$ whoami
-Roberto Lozada — Sofware Developer
+<div align="center">
+<table><tr><td align="center">
+<div style="background-color:#0d1117;border-radius:8px;overflow:hidden;border:1px solid #30363d;width:max-content;min-width:560px;max-width:640px;">
+<div style="display:flex;align-items:center;padding:8px 14px;background-color:#161b22;border-bottom:1px solid #21262d;">
+  <span style="width:11px;height:11px;border-radius:50%;background-color:#ff5f56;display:inline-block;"></span>
+  <span style="width:11px;height:11px;border-radius:50%;background-color:#ffbd2e;display:inline-block;margin-left:7px;"></span>
+  <span style="width:11px;height:11px;border-radius:50%;background-color:#27c93f;display:inline-block;margin-left:7px;"></span>
+  <span style="color:#8b949e;font-size:12px;font-family:ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;margin-left:14px;display:inline-block;">alacritty  —  ~/gambl3r08</span>
+</div>
+<pre style="margin:0;padding:14px 18px;background-color:#0d1117;color:#c9d1d9;font-size:13px;font-family:ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;line-height:1.65;text-align:left;white-space:pre;">
+<code><span style="color:#58a6ff;">❯ </span><span style="color:#c9d1d9;">whoami</span>
+<span style="color:#7ee787;">Roberto Lozada</span> — Backend Developer
 
-$ cat about.md
-Building scalable APIs and platforms backed by clean architecture and automation.
-• Python  (FastAPI, Django, DRF, AWS Lambda, Serverless Framework)
-• .NET / .NET Core
-• Rust  (currently learning)
-• CI/CD  (GitHub Actions)
-• Serverless on AWS
-```
+<span style="color:#58a6ff;">❯ </span><span style="color:#c9d1d9;">cat about.md</span>
+<span style="color:#8b949e;"># focus</span>
+Fast, secure, and maintainable backends. CI/CD. Serverless on AWS.
+
+<span style="color:#8b949e;"># stack</span>
+Python  ·  FastAPI  ·  Django  ·  .NET  ·  AWS Lambda  ·  Docker
+
+<span style="color:#58a6ff;">❯ </span><span style="color:#c9d1d9;">ls ~/stack/</span>
+<span style="color:#a5d6ff;">fastapi/    django/    dotnet/    aws/       docker/</span>
+<span style="color:#a5d6ff;">serverless/ postgres/  mysql/     rust/      github-actions/</span>
+
+<span style="color:#58a6ff;">❯ </span><span style="color:#484f58;">█</span></code></pre>
+</div>
+</td></tr></table>
+</div>
 
 <br/>
-
-<h3 align="center">Technologies</h3>
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -55,15 +69,17 @@ Building scalable APIs and platforms backed by clean architecture and automation
   <img alt="Rust" src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img alt="skillicons" width="600" src="https://skillicons.dev/icons?i=python,fastapi,django,dotnet,aws,docker,githubactions,rust,mysql,linux,bash,postgres&perline=6">
-</p>
-
 <br/>
 
 ---
 
-<h3 align="center">GitHub Highlights</h3>
+<br/>
+
+<div align="center">
+<pre style="display:inline-block;text-align:left;background-color:#0d1117;padding:8px 16px;border-radius:6px;border:1px solid #30363d;color:#8b949e;font-size:13px;font-family:ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;line-height:1.6;">
+<span style="color:#58a6ff;">~/gambl3r08/main</span> <span style="color:#c9d1d9;">→</span> <span style="color:#e3b341;">cat</span> <span style="color:#a5d6ff;">highlights/metrics.svg</span>
+</pre>
+</div>
 
 <br/>
 
@@ -76,12 +92,22 @@ Building scalable APIs and platforms backed by clean architecture and automation
 
 <br/>
 
+<div align="center">
+<pre style="display:inline-block;text-align:left;background-color:#0d1117;padding:8px 16px;border-radius:6px;border:1px solid #30363d;color:#8b949e;font-size:13px;font-family:ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;line-height:1.6;">
+<span style="color:#58a6ff;">~/gambl3r08/main</span> <span style="color:#c9d1d9;">→</span> <span style="color:#e3b341;">cat</span> <span style="color:#a5d6ff;">highlights/snake.svg</span>
+</pre>
+</div>
+
+<br/>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gambl3r08/Gambl3r08/main/assets/snake-dark.svg">
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/Gambl3r08/Gambl3r08/main/assets/snake.svg" width="100%">
   </picture>
 </p>
+
+<br/>
 
 ---
 
