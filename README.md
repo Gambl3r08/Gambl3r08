@@ -74,6 +74,15 @@ layers, tests that catch real regressions, and deployments that are boring to ru
 
 ## Contributions
 
+Isometric view of the last year — commits, pull requests, issues and top languages.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gambl3r08/Gambl3r08/output/profile-3d-contrib/profile-night-green.svg">
+    <img alt="Isometric 3D view of my GitHub contribution graph over the last year, with commit, pull request, issue and language statistics" src="https://raw.githubusercontent.com/Gambl3r08/Gambl3r08/output/profile-3d-contrib/profile-green.svg" width="900">
+  </picture>
+</p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gambl3r08/Gambl3r08/output/snake-dark.svg">
